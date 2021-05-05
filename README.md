@@ -11,15 +11,35 @@ $ python -m pip install git+https://github.com/AnikaSystems/corpus_generate.git
 ```
 This will expose the command `corpus-generate.exe`. See below for usage.
 
+
 ### from source ###
 To install from source, simply `clone` the repo, `cd` into it, and run the 
 `setup.py` install script.
 ```bash
+$ git clone https://github.com/AnikaSystems/corpus_generate.git
+$ cd corpus_generate
+$ python setup.py install
 ```
 
 
 ## usage ##
 ```
+usage: corpus-generate [-h] -t TOPIC [-o OUTFILE] [-n NUM_ARTICLES]
+
+Tool to generate a corpus of text, or a training data file for a text
+classifier, given a list of topics to classify.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -t TOPIC, --topic TOPIC
+                        The topic to research, which will be used as the name 
+                        of the class for the texts outputed.
+  -o OUTFILE, --outfile OUTFILE
+                        Optionally supply a .csv file path to output the texts
+                        to.
+  -n NUM_ARTICLES, --num-articles NUM_ARTICLES
+                        Supply the number of articles found on the net that   
+                        the bot should search through for text.
 ```
 
 ## running locally ##
