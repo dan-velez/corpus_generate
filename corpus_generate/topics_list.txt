@@ -1,0 +1,31 @@
+Products-Checking and Savings	Everything about deposit accounts
+Products-Loans	Everything about loans
+Products-Cards	Debit card and credit cards
+Products-Payments	payment types and payment transacitons
+Products-Transfer	money transfers
+Products-Investment	texts about invesments
+Channels-Branches	texts about branches, locations etc.
+Channels-Mobile	texts about mobile banking
+Channels-Call Center	about call center and employees
+Channels-ATM	about ATM, its problems, withdraw money etc.
+Employees-Attitude	employee attitude, behavior etc.
+Employee-Knowledge	employee knowledge level, giving knowledge or not
+Employee-Communications	employee communication skills
+Quality-Difficulty	The difficulty of using the products of the company, the points that are not understood in the application steps, the quality of completing transactions in branches ...
+Quality-Speed	Web site / mobile application speed, short-length of application steps, staff turnover speed, call center waiting times..
+Quality-Availability	Ability to access the desired transaction, access to personnel, suitability in the branch and the ability to conduct transactions
+Quality-Suggestions	Suggestion of staff, information / suggestions during the process
+Qulity-Privacy	Email / SMS receiving-receiving permissions, manage / manage access to personal data
+Pricing-Fees	Fees, costs
+Pricing-Offers	Score loyalty systems, bonuses, campaigns, offers
+Pricing-Limits	Credit card limits, transaction limits and issues related with them
+Competitors-BofA	About Bank of America
+Competitors-Citibank	About Citibank
+Competitors-CHASE	About Chase Bank
+Competitors-Wells Fargo	About Wells Fargo
+Competitors-Capital One	About Capital One
+Brand Attributes-Security	Trust in the bank, information security, transaction-money security
+Brand Attributes-Innovation	Innovations of bank applications / transactions, renewal rate
+Brand Attributes-Honesty	Bank personnel honesty, trust in bank, trust in brand
+Channels-Internet	texts about online banking
+Pricing-Rates	Currencies, rates
