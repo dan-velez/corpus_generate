@@ -4,7 +4,7 @@ will search the net for text on a topic or list of topics and output a file that
 can be used in training.
 
 
-## installation ##
+## Installation ##
 Requires `Python >= 3.6`. Use `pip` to install directly from github:
 ```bash
 $ python -m pip install git+https://github.com/AnikaSystems/corpus_generate.git 
@@ -12,7 +12,7 @@ $ python -m pip install git+https://github.com/AnikaSystems/corpus_generate.git
 This will expose the command `corpus-generate.exe`. See below for usage.
 
 
-### from source ###
+### From Source ###
 To install from source, simply `clone` the repo, `cd` into it, and run the 
 `setup.py` install script.
 ```bash
@@ -22,7 +22,7 @@ $ python setup.py install
 ```
 
 
-## usage ##
+## Usage ##
 ```
 usage: corpus-generate [-h] -t TOPIC [-o OUTFILE] [-n NUM_ARTICLES]
 
@@ -42,7 +42,7 @@ optional arguments:
                         the bot should search through for text.
 ```
 
-## running locally ##
+## Running Locally ##
 To test the module locally without installing, `cd` into the project root and
 type `python -m corpus_generate`. This will run the modules entry point, which 
 happens to be a CLI.
