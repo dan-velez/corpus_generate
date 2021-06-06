@@ -6,7 +6,7 @@ setup(name='corpus_generate',
     url='https://github.com/dan-velez/corpus_generate',
     author='Daniel Velez',
     author_email='daniel.enr.velez@gmail.com',
-    license='Copyright Anikasystems',
+    license='MIT',
     python_requires=">=3.6",
     packages=['corpus_generate'],
     entry_points={

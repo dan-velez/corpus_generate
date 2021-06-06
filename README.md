@@ -16,7 +16,7 @@ This will expose the command `corpus-generate.exe`. See below for usage.
 To install from source, simply `clone` the repo, `cd` into it, and run the 
 `setup.py` install script.
 ```bash
-$ git clone https://github.com/AnikaSystems/corpus_generate.git
+$ git clone https://github.com/dan-velez/corpus_generate.git
 $ cd corpus_generate
 $ python setup.py install
 ```
@@ -49,7 +49,11 @@ happens to be a CLI.
 
 
 ## TODO ##
-* Train a classifier for a set number of topics
+* Cannot install package `google` on linux: https://pypi.org/project/google/
+
+* Train a classifier for a set number of topics.
+
+* Create a **classifier generator** given a set of topics.
 
 * How to generate training data for a term or phrase
     * Input:  {"topic": "Products/Checking and Savings", "Explanation": "Everything about deposit accounts"}
